@@ -1,0 +1,809 @@
+THE STRUCTURE OF THE CLIMATE DEBATE 
+ 
+Richard S.J. Tol 
+Department of Economics, University of Sussex, Falmer, United Kingdom 
+Institute for Environmental Studies, Vrije Universiteit, Amsterdam, The Netherlands 
+Department of Spatial Economics, Vrije Universiteit, Amsterdam, The Netherlands 
+Tinbergen Institute, Amsterdam, The Netherlands 
+CESifo, Munich, Germany 
+ 
+19 August 2016 
+ 
+Abstract 
+First-best climate policy is a uniform carbon tax which gradually rises over time. Civil 
+servants have complicated climate policy to expand bureaucracies, politicians to create rents. 
+Environmentalists have exaggerated climate change to gain influence, other activists have 
+joined the climate bandwagon. Opponents to climate policy have attacked the weaknesses in 
+climate research. The climate debate is convoluted and polarized as a result, and climate 
+policy complex. Climate policy should become easier and more rational as the Paris 
+Agreement has shifted climate policy back towards national governments. Changing political 
+priorities, austerity, and a maturing bureaucracy should lead to a more constructive climate 
+debate. 
+ 
+Key words 
+Climate policy; political economy 
+ 
+JEL Classification 
+F53, P16, Q54 
+ 
+1. Introduction 
+The best course of action for greenhouse gas emission reduction and adaptation to climate 
+change has been subject to debate for three decades. Much less attention has been paid to the 
+nature and structure of the climate debate, and why certain actors adopt the position that they 
+do. In this paper, I use basic tools of political economy and the economics of organizations, 
+as well as the philosophy of science and social psychology, to analyse the climate debate. 
+Economists have contributed large volumes of research on international environmental 
+agreements and the architecture of international climate policy, and copious amounts of 
+papers on the design of greenhouse gas emission reduction policies and policy instrument 
+choice in the first- and second-best. Economists have been reluctant, however, to write much 
+about the climate debate itself and apply their tools of analysis to the question why 
+participants in this debate behave the way they do. This paper makes a first attempt. 
+
+Climate policy has moved slowly. This frustrates many, whether on the side of those who 
+advocate for rapid emission reduction or of the opinion that climate policy is a nonsense best 
+forgotten. In either case, it helps to understand why the discussion is as it is, why people 
+argue as they do, and why climate policy has neither gone away nor moved to reduce 
+greenhouse gas emissions. This paper makes a start in answering these questions. The method 
+chosen is discursive rather than analytical, but readers who prefer analytics and econometrics 
+just have to follow the references. 
+The paper proceeds as follows. Section 2 revisits the case for climate policy. Section 3 
+sketches the optimal design of climate policy. These sections are kept short because the 
+material is well-rehearsed. Section 4 explores the positions taken by different actors in the 
+climate debate. Section 5 discusses recent developments in international climate policy, with 
+particular regard to the Paris Agreement and the replacement of targets and timetables by 
+pledge and review. Section 6 treats national climate debates, in a necessarily cursory way as 
+there are so many. Section 7 concludes. 
+ 
+2. The case for climate policy 
+Some people have argued that climate change is bad as all change is apparently for the worse 
+(Potsdam Institute for Climate Impact Research and Climate Analytics 2014, WBGU 1995). 
+This is an odd position: Nothing leads to good that is not natural. Gender equality would be a 
+radical departure from the past, as would democracy in China, and universal access to 
+sanitation. These decidedly unnatural things would generally be welcomed. Indeed, Hume 
+(1740) has warned against using the world-as-is as a justification for how the world ought to 
+be, and Moore (1903) against assuming that what-is-natural is good. However, as argued by 
+Knappenberger and Michaels (2015), environmentalists typically claim that climate change is 
+bad for all that is good and good for all that is bad. 
+The environmental movement’s hankering for the presumed purity of times long gone and its 
+resistance to progress reflects its roots in Romanticism (Hinchman and Hinchman 2007) as 
+does its embrace of the naturalistic fallacy of von Schiller (1787) and the implied rejection of 
+Hume (Miller 2005). 
+Environmentalists’ construction of all climate change as necessarily bad is also at odds with 
+its frequent embrace of scientific results as a key justification for environmental policy. 
+Research has shown that climate change would bring both positive and negative impacts 
+(Arent et al. 2014, Schneider et al. 2007, Smith et al. 2001, Pearce et al. 1996). Positive 
+impacts include a reduced demand for energy for winter heating, fewer cold-related deaths, 
+and carbon dioxide fertilization which makes crops grow faster and reduces their demand for 
+water. Negative impacts include sea level rise, the spread of tropical diseases, and increases 
+in storm intensity, droughts, and floods. Adding up all these impacts after having expressed 
+them in welfare equivalents, the impact of initial climate change is probably slightly positive. 
+This is irrelevant for policy, because initial climate change cannot be avoided. More 
+pronounced climate change would have net negative effects, and these impacts would 
+accelerate with further warming. Even so, the impacts would be moderate: The welfare 
+impact of a century of climate change is comparable with the welfare impact of a year of 
+economic growth (Tol 2015). Uncertainties are large, though, but even the most pessimistic 
+estimates show that welfare loss due to a century of climate change is comparable to that of 
+losing a decade of growth (Stern et al. 2006). 
+With relatively small numbers for the total impact of climate change, it is no surprise that a 
+recent meta-analysis of estimates of the social cost of carbon concludes that its expected 
+
+value is $201/tCO2 for a 0% pure rate of time preference, $2015107/tCO2 for a 1% PRTP, and 
+$13/tCO2 for 3% (Tol 2015). This compares to a price of carbon dioxide emission permits of 
+$13/tCO2 in California1 and of $5/tCO2 in the EU2 in July 2016. These latter prices do not 
+buy a lot of emission abatement. 
+ 
+3. The design of climate policy 
+Greenhouse gas emissions can be reduced in a number of ways (Clarke et al. 2014). More 
+efficient energy use and a switch to alternative energy sources are the two main technical 
+options, although reduced population growth, slower economic growth, carbon capture and 
+storage, and geoengineering should be considered too. 
+Energy-saving and –switching are best stimulated by a carbon tax. Incentive-based policy 
+instruments are better suited for reducing emissions from diffuse and heterogeneous sources 
+than rule-based instruments (Baumol and Oates 1971). Taxes are more appropriate for stock 
+pollutants than tradable permits (Weitzman 1974). A carbon tax is therefore the cheapest way 
+to reduce greenhouse gas emissions. The initial carbon tax should be modest because it 
+imposes a deadweight loss as it penalizes decisions made before there was a carbon tax 
+(Wigley, Richels, and Edmonds 1996, Goulder and Mathai 2000). Over time, the carbon tax 
+should rise. Net present abatement costs are lowest if all emissions from all sectors and all 
+countries are taxed equally and if the carbon tax rises with a modified Hotelling rate 
+(Hotelling 1931, Van Der Ploeg and Withagen 2014). 
+Higher carbon taxes would lead to deeper emission cuts. Only a modest carbon tax is needed 
+to keep atmospheric concentrations below a high target but the required tax rapidly increases 
+with the stringency of the target. If concentrations are to be kept below 450 ppm CO2eq, the 
+global carbon tax should reach some $210/tCO2 in 2020 or so (Tol 2013) – fifty times the 
+recent price of permits in the Emissions Trading System which covers about half of emissions 
+in Europe. Such a carbon tax would roughly double the price of energy in Europe. A 450 ppm 
+CO2eq concentration would give a 50/50 chance of meeting the declared goal of the European 
+Union and the United Nations to keep global warming below 2°C (Peters et al. 2015, Peters 
+2016). 
+However, less ambitious targets would require far lower carbon taxes, and would hardly 
+affect economic growth (Clarke et al. 2014, Clarke et al. 2009, Tavoni and Tol 2010). The 
+above discussion about the impacts of climate change suggests that a modest carbon tax can 
+be justified, but that more ambitious goals may be hard to defend (Tol 2013). 
+ 
+4. The debate on climate policy 
+I argue above that climate change is a relatively small problem that can easily be solved: We 
+just need a modest carbon tax. A casual observer of climate policy and the media would have 
+a different impression. Climate change is often presented in catastrophic terms (Hulme 2008), 
+although there are also voices that decry it as a hoax (Jang and Hart 2015). Climate policy is 
+often presented as costless if not beneficial (Barker et al. 2007), although there are also 
+voices that claim it may bring the economy crashing down (Kelly 2016). These positions are 
+untenable, so their persistence requires explanation. 
+                                                          
+1 http://calcarbondash.org/ 
+2 https://www.eex.com/en#/en 
+
+A number of things stand in the way of a reasonable debate on international climate policy 
+and the simple solution sketched above. 
+First, the presentation of climate change is often a discourse of fear (Hulme 2008). There is a 
+demand for an explanation of the world in terms of Sin and a Final Reckoning This is often 
+referred to as Millenarianism (Landes 2011). Although many Europeans are nominally 
+secular, fewer are in practice. The story of climate change is often a religious one (Bruckner 
+2014): emissions (sin) lead to climate change (eternal doom); we must reduce our emissions 
+(atone for our sins). This has led to an environmental movement (a priesthood) that thrives on 
+preaching climate alarmism, often separated from its factual basis. Environmentalism further 
+offers an identity (McCarthy 2002, Heise 2008), a tribe to belong to, and an opportunity to 
+feel better than outsiders. In order to maximize their membership and income, environmental 
+NGOs meet the demand for scaremongering and moral superiority (Bell 2015). 
+Second, climate policy is perfect for politicians. Climate change is a problem that spans the 
+world and lasts for centuries. Substantial emission reduction requires decades and a degree of 
+global cooperation. This offers the opportunity for politicians to channel their inner Bruce 
+Willis and make grand promises about saving the world. At the same time, most of the 
+burden of actually doing something – and hurting constituents – can be shifted to a successor. 
+There are convenient foreigners to blame for current inaction. Climate policy is an ideal case 
+to overpromise and underdeliver. 
+Climate change also provides opportunities to deflect attention. The Managing Director of the 
+International Monetary Fund, Christine Lagarde, for instance, could be expected to take a 
+keen interest in what is going on in the Eurozone and China – but she is remarkably eager to 
+talk about climate change (Lagarde 2015, Rowley 2013, Lagarde 2013), an issue firmly 
+outside the mandate of the IMF. As another example, the United State Secretary of State, 
+John Kenny, regularly mentions climate change as his greatest worry (Goodell 2015, Almasy 
+2014, Kerry 2009) – in the USA, the Environmental Protection Agency takes the lead on 
+climate policy – although others may argue that Islamic State, Russia and China are more 
+pressing problems, and within the actual remit of the State Department. 
+Bureaucrats are a third reason why the climate debate is so convoluted. Emissions are best 
+reduced through a carbon tax. A carbon tax is an excise duty. The legal, regulatory, 
+administrative and logistical apparatus to levy excise duties is already in place, both in the 
+governments that set the levies and in the companies that administer them. A carbon tax can 
+thus be implemented with minimal effort. Bureaucrats, however, like to create new 
+bureaucracies and expand existing ones (Niskanen 1971) – and climate policy has provided 
+an opportunity to do exactly that. Climate policy has been a political priority for about two 
+decades. Emissions have hardly budged, but a growing and by now vast number of civil 
+servants have occupied themselves with creating a bureaucratic fiction that something is 
+happening. 
+The international climate negotiations are an illustration. When the United Nations 
+Framework Convention on Climate Change3 (UNFCCC) first entered into force, two or three 
+meetings a year were organized. Now, there are two or three meetings a week under the 
+auspices of the UNFCCC.4 Some 800 people attended the first Conference of the Parties in 
+Berlin in 1995. There were 40,000 delegates in Copenhagen 2009. Twenty years of 
+negotiations have not lead to a discernible reduction in emissions, but it has created a 
+                                                          
+3 See 
+http://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf 
+4 See http://unfccc.int/2860.php 
+
+substantial body of obligations on reporting – which of course requires more staff in capital 
+cities – while the multifaceted negotiations in multiple arenas requires careful preparation 
+before the negotiations and evaluation after – again requiring more staff. 
+Bureaucrats are not alone in their desire for complications in climate policy. A uniform 
+carbon tax is cost-effective as it minimizes friction in the economy. Market distortions imply 
+rents (Krueger 1974, Bhagwati 1982). Some distortions are there to create rents for political 
+allies, other rents may instil a sense of gratitude towards the politician who distorted the 
+market. Politicians can also use climate policy to give subsidies or grant tax breaks that 
+support certain households or companies, to impose technical that favour particular 
+companies, and to steer grandparented emission permits preferentially towards specific 
+emitters. Complications in climate policy thus serve the interests of rent seekers as well as the 
+interests of policy makers who use rent creation to reward allies. Assessments of current and 
+past climate policies indeed find that greenhouse gas emission reduction is not the main 
+impact (Murray et al. 2014, Leahy and Tol 2012, Pearce 2006).  
+A fifth reason why climate policy is more complicated than needed is that it has been used to 
+promote other agendas. Greenhouse gas emission reduction is a global public good (Hoel 
+1991, Carraro and Siniscalco 1992, Barrett 1990, van der Ploeg and de Zeeuw 1992, 
+Battaglini and Harstad 2015, Stavins 2011). The costs of emission abatement are borne by the 
+country that reduces the emissions. The benefits of emission reduction are shared by all of 
+humankind. It is thus individually rational to do very little, and hope that others will do a lot. 
+As every country reasons the same way, nothing much happens. There is no solution to this 
+short of installing a world government (Biermann et al. 2012). Therefore, global climate 
+policy has been used as a tactical argument by those who desire a world government for other 
+reasons (Rockström et al. 2009). Similarly, climate policy has been used to transfer powers 
+from Member States to the European Union: Environmental regulation, which is decided by 
+qualified majority, shapes energy, transport and industrial policies, which are decided 
+unanimously. 
+Because climate change is such a prominent issue, champions of other worthy causes too 
+have joined the bandwagon. Climate policy is about gender (McCright and Dunlap 2011a, 
+Kronsell, Smidfelt Rosqvist, and Winslott Hiselius 2016), about development (Olsen 2007), 
+about fair trade (Viguier 2001, Köhler 2014, Ciscell 2010), about labour rights and 
+employment (Yi 2013, Nugent 2011), and so on and so forth. The ultimate goal of climate 
+policy – decarbonisation of the economy – is thus obscured. If climate policy serves multiple 
+agendas, then the optimal policy no longer equates the marginal abatement costs (Tinbergen 
+1952). Climate policy should be reconfigured to meet different targets. 
+The final issue complicating climate policy is the following. Some object to a transfer of 
+power to the United Nations or the European Union. Others are against more government 
+regulation. People may not support the causes that have jumped on the climate bandwagon. 
+And, of course, rents for some imply losses for others. Those people may of course propose a 
+climate policy that is simpler and has an exclusive focus on greenhouse gas emissions. 
+Alternatively, climate policy itself may be attacked. 
+Environmentalists and politicians have the unfortunate habit of phrasing the need for climate 
+policy as a scientific imperative (Grundmann 2016, Grundmann 2007, Matthews 2016). The 
+science has spoken, and we must act. This is a categorical error. Science tells you what would 
+happen if. It does not tell us what to do (Pielke 2007). For instance, science tells us that water 
+rapidly withdrawing from the beach is a sign of an impending tsunami. Science tells us that a 
+run for the hills increases the chance of survival. Science does not tell us to run, our survival 
+instinct does. Science tells us that the will to live is strong in most people, and a decision 
+
+analysis would recommend to start running. But the imperative to run comes from our values 
+rather than from our knowledge. 
+Similarly, but much more complicatedly, the imperative for climate policy is derived from 
+our values rather than from our understanding of climate change and its impacts. Climate 
+research has shown that unmitigated climate change has substantial consequences (Arent et 
+al. 2014). Cost-benefit analyses have shown that these impacts justify greenhouse gas 
+emission reduction (Nordhaus 1991). But the decision to do so remains a political one. 
+Whenever a politician says that the science commands action, the opposition could of course 
+point out that this is a categorical error, and that alternative interpretations of the available 
+evidence or other parameterizations of the felicity calculus would support a different course 
+of action (Hulme 2009). That is a difficult argument to make – particularly in 30 seconds on 
+prime time television or in 140 characters on Twitter. It is much easier to pick holes in the 
+science-that-commands. 
+Climate research is a young discipline studying a complex subject, so there are genuine 
+concerns about both the state of knowledge and the standard of evidence (Spencer 2008, 
+Krauss and Von Storch 2012, Pielke 2013, Curry and Webster 2013, Lindzen 2012, 1990). At 
+the same time, the desire to block climate policy is a clear incentive to exaggerate the things 
+that we do not know and understand about climate change and its impacts, and to emphasize 
+the unscholarly behaviour of a handful of climate researchers. 
+Some environmentalists have responded in kind to these challenges (Lewandowsky, Oreskes, 
+et al. 2015, Lewandowsky, Oberauer, and Gignac 2013, Lewandowsky, Gignac, and 
+Oberauer 2015, 2013, Lewandowsky, Cook, et al. 2015, Sills 2010, Gleick 2012, Oreskes et 
+al. 2015, Mann 2015, Hansen 2013, Hauschild 2011). This has enabled further critique of 
+climate research (Pielke 2010). 
+Both the climate debate (Hoffman 2011, Fisher, Waggle, and Leifeld 2013) and public 
+opinion about climate change and policy (McCright and Dunlap 2011b, Kahan et al. 2012) 
+are now strongly polarized. There are two implications of this. Small but vocal minorities can 
+block new policy initiatives in countries where climate policy has not gotten off the ground. 
+Australia and the USA are perhaps the key examples. In countries with climate policy, the 
+European Union for example, the fractious debate on climate science crowds out scrutiny of 
+climate policy as discussion on the merits of particular policy intervention often descend into 
+mud-slinging about hiding the decline. 
+ 
+5. Progress in international climate policy 
+How to move forward? The Paris Agreement5 of December 2015 is a major step in the right 
+direction. Any solution to the climate problem should start with acknowledging that we live 
+in a world of many countries, the majority of which jealously guards their sovereignty. 
+Unfortunately, for 20 years, international climate negotiations under UNFCCC focussed on 
+one thing: A legally binding treaty on targets for greenhouse gas emission reduction. The 
+1997 Kyoto Protocol6 seemed to meet that aim, but although it did impose targets on most 
+rich countries for a short period, sanctions were never agreed on countries that failed to reach 
+their obligations. Key countries did not sign up anyway, while other countries met the agreed 
+                                                          
+5 See http://unfccc.int/files/essential_background/convention/application/pdf/english_paris_agreement.pdf 
+6 See http://unfccc.int/resource/docs/convkp/kpeng.pdf 
+
+targets without much effort (Aichele and Felbermayr 2013, Bel and Joseph 2015, Löschel, 
+Pothen, and Schymura 2015). 
+The Paris Agreement discarded legally binding emission targets. Instead, it is centred on 
+Intended Nationally Determined Contributions to climate policy (INDCs). Article 4.2 has that 
+“[e]ach Party shall prepare, communicate and maintain successive nationally determined 
+contributions that it intends to achieve. Parties shall pursue domestic mitigation measures, 
+with the aim of achieving the objectives of such contributions.” In other words, the Paris 
+Agreement obliges countries to have a climate policy – but the word “intended” signifies that 
+climate policy is aspirational, while the words “nationally determined” specify that these 
+aspirations are set by individual countries rather than through international negotiations. 
+Article 4.3 specifies that “[e]ach Party's successive nationally determined contribution will 
+represent a progression beyond the Party's then current nationally determined contribution 
+and reflect its highest possible ambition”. Put differently, national aspirations should become 
+more ambitious over time – but in an unspecified way and at an unspecified rate. 
+There are no sanctions for missing targets – indeed Article 15 explicitly states that the 
+“mechanism to […] promote compliance” is “non-punitive”. Article 28 stipulates that a 
+country may withdraw from the Paris Agreement without sanction. 
+In other words, after 20 years of trying and failing to negotiate a treaty with legally binding 
+emission reduction targets, the Paris Agreement switched to pledge and review. This is a 
+welcome development. International law is weak, and cannot provide public goods. It is in 
+each sovereign country’s self-interest to free ride on the emission reduction efforts of other 
+countries (Hoel 1991, Carraro and Siniscalco 1992, Barrett 1990, van der Ploeg and de 
+Zeeuw 1992, Nordhaus and Yang 1996). Pledge and review is how other global public goods 
+are provided (Bradford 2008). If a peace-keeping force is needed, or an emergency response 
+to an epidemic, countries come together to assess the situation and what resources are 
+deemed necessary. Each country then pledges whatever can be made available. The response 
+is later reviewed and scaled up or down as needed. This is a messy and often inadequate way 
+of doing things, but it sort-of-works – unlike the first 20 years of international climate policy 
+which saw a steady rise of greenhouse gas emissions. 
+Pledge-and-review could imply unilateral climate policy, which is expensive. If a country 
+raises its price of energy, but its trading partners do not, business will shift abroad. A country 
+will be more ambitious if it is confident that its neighbours will adopt roughly the same 
+climate policy. The annual meetings under the UNFCCC, and its internationally agreed 
+standards on emissions monitoring and reporting take away most uncertainty about other 
+countries’ plans. If a carbon tax is the policy of choice, there would be a degree of implicit 
+tax harmonization with key import and export markets (Baldwin and Krugman 2004, 
+Mendoza and Tesar 2005) – perhaps further helped by informal discussions in regional trade 
+organizations, such as the EU, NAFTA, MERCUSOR and ASEAN. 
+ 
+6. Progress in national climate policies? 
+The Paris Agreement puts climate policy firmly back in the hands of national governments. 
+In principle, this should take away the concerns of those who see climate policy as a transfer 
+of power to multilateral organizations. However, at least in Europe, politicians and 
+environmentalists refer to a countries’ international obligations under the Paris Agreement. 
+There are none. The Paris Agreement only obliges countries to have a climate policy. It does 
+
+not oblige them to have a stringent climate policy. But just like the presumed scientific 
+imperative is a welcome excuse, so the alleged international obligation allows people to avoid 
+making the argument for climate policy on its merits. 
+Politicians should not be afraid to argue for climate policy. Opinion polls in democratic 
+countries have repeatedly shown over a period of 20 years that a majority is in favour of 
+greenhouse gas emission reduction, even if that means more expensive energy (Leiserowitz et 
+al. 2013, Leiserowitz, Kates, and Parris 2006, 2005, Lee et al. 2015). Cost-benefit analyses 
+have consistently shown that a well-designed climate policy pays off (Nordhaus 1991, 
+Nordhaus 1993, Tol 2013). 
+Changing the nature of national debates on climate policy is not straightforward. As shown 
+above, all parties involved behave as they do for good reason. The general public, while still 
+concerned about climate change, does not see it as a priority. As the ability of climate change 
+to grab headlines dwindles, so does its appeal as a bandwagon to jump on. As climate 
+bureaucracies have matured, so the opportunities for further rapid expansion have fallen. At 
+the same time, political priorities have shifted – to immigration, Brexit, and fiscal and 
+financial stability in Europe – and to race relations, immigration and the economy in the 
+USA. That would mean fewer incursions by more senior but less knowledgeable politicians, 
+so that climate policy would settle at a more technocratic, less politically volatile level of 
+policy making. 
+Climate policy under the Obama administration is a good example (Burtraw 2015). The party 
+of Nixon (who founded the Environmental Protection Agency), Reagan (who helped broker 
+the Montreal Protocol on Substances that Deplete the Ozone Layer) and Bush the Elder (who 
+helped negotiate the UNFCCC) is strongly against climate policy while the other side is in 
+favour. The result is legislative deadlock. The EPA, however, has used – some say abused – 
+the 1970 Clean Air Act (signed by Nixon) to begin to regulate greenhouse gas emissions. The 
+EPA has used Clinton’s Executive Order 12866 to ensure a uniform price of emission 
+reduction equal to the social cost of carbon (Greenstone, Kopits, and Wolverton 2013, Pizer 
+et al. 2014, Rose 2012, Sunstein 2014, Burtraw et al. 2014). Of course, the risk of policy by 
+executive power is that the next president can readily reverse these steps, for instance by 
+appointing different experts on the committee that sets the social cost of carbon (Dayaratna, 
+McKitrick, and Kreutzer 2016, Havranek et al. 2015). 
+In Europe, the capital subsidies that are grandparented permits are gradually replaced by 
+auctions, while austerity brought an end to overly generous, and unnecessary, subsidies on 
+renewables in Southern Europe and the United Kingdom. But there is regress too. The UK’s 
+climate levy is on top of cap-and-trade; it raises costs but does not reduce emission 
+(Boehringer, Koschel, and Moslener 2008). France recently introduced a similar tax. 
+Germany has accelerated its nuclear phase-out, replacing it by coal and lignite. Resistance 
+against natural gas from hydraulic fracturing remains strong. 
+Developing countries take their cues on climate policy from Europe and North America. 
+There as well, patronage too often takes priority over emission reduction, and the various 
+streams of climate funds are not without blemish (Mathy and Guivarch 2010, Michaelowa 
+and Michaelowa 2007, Bhattacharyya, Intartaglia, and McKay 2016, Wara 2008, 2007). 
+China is copying another European mistake. For stock problems like climatic change, 
+taxation is superior to cap-and-trade (Weitzman 1974, Pizer 1997) but, after long 
+deliberation, China opted for the latter (Hübler, Voigt, and Löschel 2014, Jotzo and Löschel 
+2014, Zhang et al. 2014, Karplus, Rausch, and Zhang 2016). There are two pre-conditions for 
+successful permit trading. First, monitoring needs to be sound. We do not monitor carbon 
+
+dioxide emissions. Instead, we impute carbon dioxide emissions from the volume and type of 
+energy used. However, China’s statistics on energy use are all over the place. Estimates of 
+aggregate coal use, for instance, differ by twenty percent or more. Second, enforcement needs 
+to be sound, also after an emission permit has changed hands a number of times. This is a 
+concern in the EU-ETS (Aakre and Hovi 2010, D'Amato and Valentini 2011, Brandt and 
+Svendsen 2014) which includes countries like Italy and Greece, but the legal system in China 
+is weaker still. 
+In all this, it is important to give voice to those who see climate policy as a public policy that, 
+like all public policies, can be designed well or not-so-well (McLure Jr 2014, Marron and 
+Toder 2014, Goulder and Stavins 2011, Fischer and Fox 2011, Anthoff and Hahn 2010). 
+Open and critical debate is key to a good design, as is independent evaluation of past policies. 
+Delegitimizing dissenting voices by pejorative labelling and questioning motives is not part 
+of an open discussion (Stern et al. 2016). Over the top rhetoric is not helpful (McKibben 
+2016). 
+ 
+7. Conclusion 
+First-best climate policy is simple: A uniform carbon tax, rising steadily over time, is all we 
+need. Although an international agreement on a harmonized carbon tax is impossible, a 
+degree of coordination through trade organizations and informal cooperation is feasible. A 
+modest carbon tax can be justified based on conservative assumptions about people’s 
+preferences, and imposing such a carbon tax would avoid the worst of climate change without 
+imposing much economic damage in the short run. In contrast, actual climate policy is not 
+simple, and the debate on climate policy is polarized and convoluted. Environmental NGOs 
+exaggerate climate change because that increases their membership and influence. Other 
+advocates use climate as a bandwagon to pursue unrelated issues. Politicians use climate 
+policy to create rents and hand-outs. For civil servants, climate policy is a way to expand 
+bureaucracies. Those opposed to climate policy use weaknesses in climate science to derail 
+the discussion. The Paris Agreement has shifted international climate policy away from 
+legally binding targets to a more realistic system of pledge and review. This should take away 
+some of the opposition to climate policy and allow policy makers to focus on national climate 
+policies instead. Austerity, new political priorities, and a maturing bureaucracy should allow 
+climate policy to move towards a focus on emission reduction. 
+This paper makes a number of observations about current and past climate policy that can and 
+should be tested against data. Progress in natural language processing allow for hypotheses 
+that were once in the realm of qualitative analysis to be tested rigorously and objectively. 
+Less innovatively, despite a 25 year history of climate policy, taking the 1991 carbon tax in 
+Norway as the starting point, there is dearth of ex post evaluations of what actually happened 
+(Aghion et al. 2016, Commins et al. 2011). Such studies would show the costs of actual 
+climate policies, rather than the costs of ideal climate policy, and reveal whether climate 
+policy has objectives besides the stated one of greenhouse gas emission reduction. This paper 
+also makes a number of predictions. Time will tell. The other points raised should be high on 
+any research agenda on climate policy. 
+ 
+Acknowledgements 
+
+This paper benefit greatly from twenty-five years of discussions on climate policy with 
+people from across the political spectrum and a wide variety of backgrounds, academic or 
+otherwise. Unfortunately, no one has agreed to put a cheque in the post for writing what I 
+wrote. 
+ 
+References 
+Aakre, S., and J. Hovi. 2010. "Emission trading: Participation enforcement determines the 
+need for compliance enforcement." European Union Politics 11 (3):427-445. doi: 
+10.1177/1465116510369265. 
+Aghion, Philippe, Antoine Dechezleprêtre, David Hémous, Ralf Martin, and John Van 
+Reenen. 2016. "Carbon Taxes, Path Dependency, and Directed Technical Change: 
+Evidence from the Auto Industry." Journal of Political Economy 124 (1):1-51. doi: 
+10.1086/684581. 
+Aichele, R., and G. Felbermayr. 2013. "The Effect of the Kyoto Protocol on Carbon 
+Emissions." Journal of Policy Analysis and Management 32 (4):731-757. doi: 
+10.1002/pam.21720. 
+Almasy, Steve. 2014. "John Kerry: Climate change as big a threat as terrorism, poverty, 
+WMDs." CNN, 17 February 2014. http://edition.cnn.com/2014/02/16/politics/kerry-
+climate/. 
+Anthoff, D., and R. Hahn. 2010. "Government failure and market failure: On the inefficiency 
+of environmental and energy policy." Oxford Review of Economic Policy 26 (2):197-
+224. 
+Arent, D., R. S. J. Tol, E. Faust, J. P. Hella, S. Kumar, Kenneth M. Strzepek, F. L. Toth, and 
+D. Yan. 2014. "Key economic sectors and services." In Climate Change 2014: 
+Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. 
+Contribution of Working Group II to the Fifth Assessment Report of the 
+Intergovernmental Panel on Climate Change, edited by C.B. Field, V.R. Barros, D.J. 
+Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. 
+Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. 
+Mastrandrea and L.L. White, 659-708. Cambridge: Cambridge University Press. 
+Baldwin, R. E., and P. Krugman. 2004. "Agglomeration, integration and tax harmonisation." 
+European Economic Review 48 (1):1-23. doi: 10.1016/S0014-2921(02)00318-5. 
+Barker, T., I. Bashmakov, A. Alharthi, M. Amann, L. Cifuentes, J. Drexhage, M. Duan, O. 
+Edenhofer, B. P. Flannery, M. J. Grubb, M. Hoogwijk, F. I. Ibitoye, C. J. Jepma, W. 
+A. Pizer, and K. Yamaji. 2007. "Mitigation from a Cross-Sectoral Perspective." In 
+Climate Change 2007: Mitigation -- Contribution of Working Group III to the Fourth 
+Assessment Report of the Intergovernmental Panel on Climate Change, edited by B. 
+Metz, O. R. Davidson, P. R. Bosch, R. Dave and L. A. Meyer, 619-690. Cambridge: 
+Cambridge University Press. 
+Barrett, S. 1990. "The Problem of Global Environmental Protection." Oxford Review of 
+Economic Policy 6 (1):68-79. 
+Battaglini, Marco, and Bård Harstad. 2015. "Participation and Duration of Environmental 
+Agreements." Journal of Political Economy 124 (1):160-204. doi: 10.1086/684478. 
+Baumol, W. J., and W. E. Oates. 1971. "The Use of Standards and Prices for the Protection of 
+the Environment." Scandinavian Journal of Economics 73 (1):42-54. 
+Bel, Germà, and Stephan Joseph. 2015. "Emission abatement: Untangling the impacts of the 
+EU ETS and the economic crisis." Energy Economics 49:531-539. doi: 
+http://dx.doi.org/10.1016/j.eneco.2015.03.014. 
+
+Bell, Larry. 2015. Scared Witless: Prophets and Profits of Climate Doom. Las Vegas: 
+Stairway Press. 
+Bhagwati, Jagdish N. 1982. "Directly Unproductive, Profit-Seeking (DUP) Activities." 
+Journal of Political Economy 90 (5):988-1002. 
+Bhattacharyya, S., M. Intartaglia, and A. McKay. 2016. Does Climate Aid Affect Emissions? 
+Evidence from a Global Dataset. In Working Paper. Falmer. 
+Biermann, F., K. Abbott, S. Andresen, K. Baeckstrand, S. Bernstein, M. M. Betsill, H. 
+Bulkeley, B. Cashore, J. Clapp, C. Folke, A. Gupta, J. Gupta, P. M. Haas, A. Jordan, 
+N. Kanie, T. Kluvankova-Oravska, L. Lebel, D. Liverman, J. Meadowcroft, R. B. 
+Mitchell, P. Newell, S. Oberth•r, L. Olsson, P. Pattberg, R. Sanchez-Rodriguez, H. 
+Schroeder, A. Underdal, S. Camarg Vieira, C. Vogel, O. R. Young, A. Brock, and R. 
+Zondervan. 2012. "Navigating the Anthropocene: Improving Earth System 
+Governance." Science 335 (6074):1306-1307. 
+Boehringer, C., H. Koschel, and U. Moslener. 2008. "Efficiency Losses from Overlapping 
+Regulation of EU Carbon Emissions." Journal of Regulatory Economics 33 (3):299-
+317. 
+Bradford, David F. 2008. "Improving on Kyoto: Greenhouse Gas Control as the Purchase of a 
+Global Public Good." In The Design of Climate Policy, edited by R. Guesnerie and H. 
+Tulkens, 13-36. Cambridge: MIT Press. 
+Brandt, U., and G. Svendsen. 2014. "A blind eye to industry-level corruption? the risk of 
+favouring domestic industries in the EU ETS." Energy and Environment 25 (2):263-
+280. doi: 10.1260/0958-305X.25.2.263. 
+Bruckner, P. 2014. The Fanaticism of the Apocalypse: Save the Earth, Punish Human Beings. 
+Cambridge: Polity Press. 
+Burtraw, D. 2015. "The regulatory approach in US climate mitigation policy." Geneva 
+Reports on the World Economy 2015-November:239-249. 
+Burtraw, D., J. Linn, K. Palmer, and A. Paul. 2014. "The costs and consequences of clean air 
+act regulation of CO2 from power plants." American Economic Review 104 (5):557-
+562. doi: 10.1257/aer.104.5.557. 
+Carraro, C., and D. Siniscalco. 1992. "The International Dimension of Environmental 
+Policy." European Economic Review 36:379-387. 
+Ciscell, G. M. 2010. "Beyond CO2lonialism: The potential for fair trade certification to 
+embrace voluntary carbon offsets." International Journal of Sustainable Society 2 
+(2):121-132. doi: 10.1504/IJSSOC.2010.033625. 
+Clarke, L., K. Jiang, K. Akimoto, M. H. Babiker, Geoffrey J. Blanford, K. A. Fisher-Vanden, 
+J. C. Hourcade, Volker Krey, E. Kriegler, A. Loeschel, D. W. McCollum, S. Paltsev, 
+S. Rose, P. R. Shukla, M. Tavoni, D. van Vuuren, and B. Van Der Zwaan. 2014. 
+"Assessing Transformation Pathways." In Climate Change 2014: Mitigation of 
+Climate Change - Contribution of Working Group III to the Fifth Assessment Report 
+of the Intergovernmental Panel on Climate Change, edited by O. Edenhofer, R. Pichs-
+Madruga and Y. Sokona. Cambridge: Cambridge University Press. 
+Clarke, Leon, Jae Edmonds, Volker Krey, Richard Richels, Steven Rose, and Massimo 
+Tavoni. 2009. "International climate policy architectures: Overview of the EMF 22 
+international scenarios." Energy Economics 31 (S2):S64-S81. 
+Commins, N., Sean Lyons, M. Schiffbauer, and Richard S. J. Tol. 2011. "Climate policy and 
+corporate behaviour." Energy Journal 32 (4):51-68. 
+Curry, J. A., and P. J. Webster. 2013. "Climate change: No consensus on consensus." CAB 
+Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural 
+Resources 8. doi: 10.1079/PAVSNNR20138001. 
+
+D'Amato, A., and E. Valentini. 2011. "Enforcement and environmental quality in a 
+decentralized emission trading system." Journal of Regulatory Economics 40 (2):141-
+159. doi: 10.1007/s11149-011-9153-4. 
+Dayaratna, Kevin, R. McKitrick, and D. Kreutzer. 2016. Empirically-Constrained Climate 
+Sensitivity and the Social Cost of Carbon. 
+Fischer, C., and A. K. Fox. 2011. "The role of trade and competitiveness measures in US 
+climate policy." American Economic Review 101 (3):258-262. 
+Fisher, D. R., J. Waggle, and P. Leifeld. 2013. "Where Does Political Polarization Come 
+From? Locating Polarization Within the U.S. Climate Change Debate." American 
+Behavioral Scientist 57 (1):70-92. doi: 10.1177/0002764212463360. 
+Gleick, P. H. 2012. "The Origin of the Heartland Documents." Huffington Post, 20 Feb 2012. 
+http://www.huffingtonpost.com/peter-h-gleick/heartland-institute-
+documents_b_1289669.html. 
+Goodell, John. 2015. "John Kerry on Climate Change: The Fight of Our Time." Rolling 
+Stone, 1 December 2015. 
+Goulder, L. H., and K. Mathai. 2000. "Optimal CO 2  Abatement in the Presence of Induced 
+Technological Change." Journal of Environmental Economics and Management 39:1-
+38. 
+Goulder, L. H., and R. N. Stavins. 2011. "Challenges from state-federal interactions in US 
+climate change policy." American Economic Review 101 (3):253-257. 
+Greenstone, M., E. Kopits, and A. Wolverton. 2013. "Developing a social cost of carbon for 
+us regulatory analysis: A methodology and interpretation." Review of Environmental 
+Economics and Policy 7 (1):23-46. doi: 10.1093/reep/res015. 
+Grundmann, R. 2007. "Climate change and knowledge politics." Environmental Politics 16 
+(3):414-432. 
+Grundmann, Reiner. 2016. "Climate change as a wicked social problem." Nature Geosci 9 
+(8):562-563. doi: 10.1038/ngeo2780. 
+Hansen, J. E. 2013. "Climate Urgency." Simulation and Gaming 44 (2-3):232-243. doi: 
+10.1177/1046878113491650. 
+Hauschild, Jana. 2011. "Verurteilter Forscher: Eklat um Klimaberater der Bundesregierung." 
+Spiegel, 1 Dec 2011. 
+Havranek, Tomas, Zuzana Irsova, Karel Janda, and David Zilberman. 2015. "Selective 
+Reporting and the Social Cost of Carbon." Energy Economics 51:394-406. doi: 
+http://dx.doi.org/10.1016/j.eneco.2015.08.009. 
+Heise, U. K. 2008. Sense of Place and Sense of Planet: The Environmental Imagination of 
+the Global, Sense of Place and Sense of Planet: The Environmental Imagination of 
+the Global. Book. 
+Hinchman, L. P., and S. K. Hinchman. 2007. "What we owe the romantics." Environmental 
+Values 16 (3):333-354. doi: 10.3197/096327107X228382. 
+Hoel, M. 1991. "Global Environmental Problems: The Effects of Unilateral Actions Taken by 
+One Country." Journal of Environmental Economics and Management 20:55-70. 
+Hoffman, A. J. 2011. "Talking past each other? cultural framing of skeptical and convinced 
+logics in the climate change debate." Organization and Environment 24 (1):3-33. doi: 
+10.1177/1086026611404336. 
+Hotelling, H. 1931. "The Economics of Exhaustible Resources." Journal of Political 
+Economy 39 (2):137-175. 
+Hübler, Michael, Sebastian Voigt, and Andreas Löschel. 2014. "Designing an emissions 
+trading scheme for China—An up-to-date climate policy assessment." Energy Policy 
+75:57-72. doi: http://dx.doi.org/10.1016/j.enpol.2014.02.019. 
+
+Hulme, M. 2008. "The conquering of climate: Discourses of fear and their dissolution." 
+Geographical Journal 174 (1):5-16. doi: 10.1111/j.1475-4959.2008.00266.x. 
+Hulme, M. 2009. Why We Disagree about Climate Change: Understanding Controversy, 
+Inaction and Opportunity. Cambridge: Cambridge University Press. 
+Hume, David. 1740. A Treatise of Human Nature: Being an Attempt to introduce the 
+experimental Method of Reasoning into Moral Subjects, Part III: Of Morals. London: 
+John Noon. 
+Jang, S. M., and P. S. Hart. 2015. "Polarized frames on "climate change" and "global 
+warming" across countries and states: Evidence from Twitter big data." Global 
+Environmental Change 32:11-17. doi: 10.1016/j.gloenvcha.2015.02.010. 
+Jotzo, Frank, and Andreas Löschel. 2014. "Emissions trading in China: Emerging experiences 
+and international lessons." Energy Policy 75:3-8. doi: 
+http://dx.doi.org/10.1016/j.enpol.2014.09.019. 
+Kahan, D. M., E. Peters, M. Wittlin, P. Slovic, L. L. Ouellette, D. Braman, and G. Mandel. 
+2012. "The polarizing impact of science literacy and numeracy on perceived climate 
+change risks." Nature Climate Change 2 (10):732-735. doi: 10.1038/nclimate1547. 
+Karplus, V. J., S. Rausch, and D. Zhang. 2016. "Energy caps: Alternative climate policy 
+instruments for China?" Energy Economics 56:422-431. doi: 
+10.1016/j.eneco.2016.03.019. 
+Kelly, M. J. 2016. "Lessons from technology development for energy and sustainability." 
+MRS Energy & Sustainability - A Review Journal 3:E3 (13 pages). 
+Kerry, J. 2009. "Title." ThinkProgress, 21 June 2009. https://thinkprogress.org/john-kerry-
+climate-change-is-our-greatest-long-term-security-threat-f9c12e7d098f#.fe9h1xtyc. 
+Knappenberger, P. C., and P. J. Michaels. 2015. "Title." Cato at Liberty. 
+http://www.cato.org/blog/global-warming-good-bad-bad-good. 
+Köhler, J. 2014. "Globalization and Sustainable Development: Case Study on International 
+Transport and Sustainable Development." Journal of Environment and Development 
+23 (1):66-100. doi: 10.1177/1070496513507260. 
+Krauss, W., and H. Von Storch. 2012. "Climate science in a postnormal context." Eos 93 
+(10):110. doi: 10.1029/2012EO100007. 
+Kronsell, A., L. Smidfelt Rosqvist, and L. Winslott Hiselius. 2016. "Achieving climate 
+objectives in transport policy by including women and challenging gender norms: The 
+Swedish case." International Journal of Sustainable Transportation 10 (8):703-711. 
+doi: 10.1080/15568318.2015.1129653. 
+Krueger, A.O. 1974. "The Political Economy of the Rent-Seeking Society." American 
+Economic Review 64 (3):291-303. 
+Lagarde, Christine. 2013. Transcript of a Press Roundtable with IMF Managing Director. 
+New York: International Monetary Fund. 
+Lagarde, Christine. 2015. "Ten myths about climate change policy." Finance and Investment, 
+64-67. 
+Landes, R. 2011. Heaven on Earth: The Varieties of the Millennial Experience. Oxford: 
+Oxford University Press. 
+Leahy, Eimear, and Richard S. J. Tol. 2012. "Greener Homes: An Ex-Post Estimate of the 
+Cost of Carbon Dioxide Emission Reduction using Administrative Micro-Data from 
+the Republic of Ireland." Environmental Economics and Policy Studies 14 (3):219-
+239. 
+Lee, T. M., E. M. Markowitz, P. D. Howe, C. Y. Ko, and A. A. Leiserowitz. 2015. 
+"Predictors of public climate change awareness and risk perception around the world." 
+Nature Climate Change 5 (11):1014-1020. doi: 10.1038/nclimate2728. 
+
+Leiserowitz, A. A., R. W. Kates, and T. M. Parris. 2005. "Do global attitudes and behaviors 
+support sustainable development?" Environment 47 (9):22-38. doi: 
+10.3200/ENVT.47.9.22-38. 
+Leiserowitz, A. A., R. W. Kates, and T. M. Parris. 2006. Sustainability values, attitudes, and 
+behaviors: A review of multinational and global trends. In Annual Review of 
+Environment and Resources. 
+Leiserowitz, A. A., E. W. Maibach, C. Roser-Renouf, N. Smith, and E. Dawson. 2013. 
+"Climategate, Public Opinion, and the Loss of Trust." American Behavioral Scientist 
+57 (6):818-837. doi: 10.1177/0002764212458272. 
+Lewandowsky, S., G. E. Gignac, and K. Oberauer. 2013. "The Role of Conspiracist Ideation 
+and Worldviews in Predicting Rejection of Science." PLoS ONE 8 (10). doi: 
+10.1371/journal.pone.0075637. 
+Lewandowsky, S., G. E. Gignac, and K. Oberauer. 2015. "The Robust Relationship Between 
+Conspiracism and Denial of (Climate) Science." Psychological Science 26 (5):667-
+670. doi: 10.1177/0956797614568432. 
+Lewandowsky, S., K. Oberauer, and G. E. Gignac. 2013. "NASA Faked the Moon Landing-
+Therefore, (Climate) Science Is a Hoax: An Anatomy of the Motivated Rejection of 
+Science." Psychological Science 24 (5):622-633. doi: 10.1177/0956797612457686. 
+Lewandowsky, S., N. Oreskes, J. S. Risbey, B. R. Newell, and M. Smithson. 2015. "Seepage: 
+Climate change denial and its effect on the scientific community." Global 
+Environmental Change 33:1-13. doi: 10.1016/j.gloenvcha.2015.02.013. 
+Lewandowsky, Stephan, John Cook, Klaus Oberauer, Scott Brophy, Elisabeth A. Lloyd, and 
+Michael Marriott. 2015. "Recurrent Fury: Conspiratorial Discourse in the 
+Blogosphere Triggered by Research on the Role of Conspiracist Ideation in Climate 
+Denial." Journal of Social and Political Psychology 3. 
+Lindzen, R. S. 1990. "Some coolness concerning global warming." Bulletin - American 
+Meteorological Society 71 (3):288-299. 
+Lindzen, R. S. 2012. "Climate physics, feedbacks, and reductionism (and when does 
+reductionism go too far?)." European Physical Journal Plus 127 (5). doi: 
+10.1140/epjp/i2012-12052-8. 
+Löschel, A., F. Pothen, and M. Schymura. 2015. "Peeling the onion: Analyzing aggregate, 
+national and sectoral energy intensity in the European Union." Energy Economics 
+52:S63-S75. doi: 10.1016/j.eneco.2015.09.004. 
+Mann, M. E. 2015. "The Serengeti strategy: How special interests try to intimidate scientists, 
+and how best to fight back." Bulletin of the Atomic Scientists 71 (1):33-45. doi: 
+10.1177/0096340214563674. 
+Marron, D. B., and E. J. Toder. 2014. "Tax policy issues in designing a carbon tax." 
+American Economic Review 104 (5):563-568. doi: 10.1257/aer.104.5.563. 
+Mathy, S., and C. Guivarch. 2010. "Climate policies in a second-best world-A case study on 
+India." Energy Policy 38 (3):1519-1528. doi: 10.1016/j.enpol.2009.11.035. 
+Matthews, David. 2016. "Science editor-in-chief sounds alarm over falling public trust." 
+Times Higher Education, 18 August 2016. 
+https://www.timeshighereducation.com/news/science-editor-chief-sounds-alarm-over-
+falling-public-trust. 
+McCarthy, J. 2002. "First world political ecology: Lessons from the Wise Use movement." 
+Environment and Planning A 34 (7):1281-1302. doi: 10.1068/a3526. 
+McCright, A. M., and R. E. Dunlap. 2011a. "Cool dudes: The denial of climate change 
+among conservative white males in the United States." Global Environmental Change 
+21 (4):1163-1172. doi: 10.1016/j.gloenvcha.2011.06.003. 
+
+McCright, A. M., and R. E. Dunlap. 2011b. "The Politicization Of Climate Change And 
+Polarization In The American Public's Views Of Global Warming, 2001-2010." 
+Sociological Quarterly 52 (2):155-194. doi: 10.1111/j.1533-8525.2011.01198.x. 
+McKibben, Bill. 2016. "A World at War." New Republic, 15 August 2016. 
+McLure Jr, C. E. 2014. "Selected international aspects of carbon taxation." American 
+Economic Review 104 (5):552-556. doi: 10.1257/aer.104.5.552. 
+Mendoza, E. G., and L. L. Tesar. 2005. "Why hasn't tax competition triggered a race to the 
+bottom? Some quantitative lessons from the EU." Journal of Monetary Economics 52 
+(1):163-204. doi: 10.1016/j.jmoneco.2004.07.002. 
+Michaelowa, A., and K. Michaelowa. 2007. "Climate or Development: Is ODA Diverted 
+from its Original Purpose?" Climatic Change 84:5-21. 
+Miller, E. P. 2005. "'The world must be romanticised ...': The (Environmental) ethical 
+implications of Schelling's organic worldview." Environmental Values 14 (3):295-
+316. 
+Moore, G.E. 1903. Principia Ethica. Cambridge: Cambridge University Press. 
+Murray, B. C., M. L. Cropper, F. C. De La Chesnaye, and J. M. Reilly. 2014. "How effective 
+are us renewable energy subsidies in cutting greenhouse gases?" American Economic 
+Review 104 (5):569-574. doi: 10.1257/aer.104.5.569. 
+Niskanen, William A. 1971. Bureaucracy and Public Economics. Cheltenham: Edward Elgar. 
+Nordhaus, W. D. 1993. "Optimal Greenhouse-Gas Reductions and Tax Policy in the "DICE" 
+Model." American Economic Review 83 (2):313-317. 
+Nordhaus, William D. 1991. "To Slow or Not to Slow: The Economics of the Greenhouse 
+Effect." Economic Journal 101 (444):920-937. 
+Nordhaus, William D., and Zili Yang. 1996. "RICE: A Regional Dynamic General 
+Equilibrium Model of Optimal Climate-Change Policy." American Economic Review 
+86 (4):741-765. 
+Nugent, J. P. 2011. "Changing the climate: Ecoliberalism, green new dealism, and the 
+struggle over green jobs in Canada." Labor Studies Journal 36 (1):58-82. doi: 
+10.1177/0160449X10392528. 
+Olsen, K. H. 2007. "The clean development mechanism's contribution to sustainable 
+development: A review of the literature." Climatic Change 84 (1):59-73. doi: 
+10.1007/s10584-007-9267-y. 
+Oreskes, N., D. Carlat, M. E. Mann, P. D. Thacker, and F. S. Vom Saal. 2015. "Why 
+Disclosure Matters." Environmental Science and Technology 49 (13):7527-7528. doi: 
+10.1021/acs.est.5b02726. 
+Pearce, David W. 2006. "The Political Economy of an Energy Tax: The United Kingdom's 
+Climate Change Levy." Energy Economics 28:149-158. 
+Pearce, David W., William R. Cline, Amrita N. Achanta, Samuel Fankhauser, Rajendra K. 
+Pachauri, Richard S. J. Tol, and Pier Vellinga. 1996. "The Social Costs of Climate 
+Change: Greenhouse Damage and the Benefits of Control." In Climate Change 1995: 
+Economic and Social Dimensions -- Contribution of Working Group III to the Second 
+Assessment Report of the Intergovernmental Panel on Climate Change, edited by 
+James P. Bruce, Hoesung Lee and Eric F. Haites, 179-224. Cambridge: Cambridge 
+University Press. 
+Peters, G. P. 2016. "The 'best available science' to inform 1.5 °c policy choices." Nature 
+Climate Change 6 (7):646-649. doi: 10.1038/nclimate3000. 
+Peters, G. P., R. M. Andrew, S. Solomon, and P. Friedlingstein. 2015. "Measuring a fair and 
+ambitious climate agreement using cumulative emissions." Environmental Research 
+Letters 10 (10). doi: 10.1088/1748-9326/10/10/105004. 
+Pielke, R. A. 2013. "Climate change position statement, dissenting view." Eos 94 (34):301. 
+
+Pielke, R. A., Jr. 2007. The Honest Broker -- Making Sense of Science in Policy and Politics. 
+Cambridge: Cambridge University Press. Reprint, IN FILE. 
+Pielke, R. A., Jr. 2010. The Climate Fix. New York: Basic Books. Reprint, NOT IN FILE. 
+Pizer, W. A. 1997. Prices vs. Quantities Revisited: The Case of Climate Change. 
+Washington,D.C.: Resources for the Future. 
+Pizer, W., M. Adler, J. Aldy, D. Anthoff, M. Cropper, K. Gillingham, M. Greenstone, B. 
+Murray, R. Newell, R. Richels, A. Rowell, S. Waldhoff, and J. Wiener. 2014. "Using 
+and improving the social cost of carbon." Science 346 (6214):1189-1190. doi: 
+10.1126/science.1259774. 
+Potsdam Institute for Climate Impact Research, and Climate Analytics. 2014. Turn Down the 
+Heat: Confronting the New Climate Normal. Washington, D.C.: World Bank. 
+Rockström, J., W. Steffen, K. Noone, Å Persson, F. S. Chapin, E. F. Lambin, T. M. Lenton, 
+M. Scheffer, C. Folke, H. J. Schellnhuber, B. Nykvist, C. A. De Wit, T. Hughes, S. 
+Van Der Leeuw, H. Rodhe, S. Sörlin, P. K. Snyder, R. Costanza, U. Svedin, M. 
+Falkenmark, L. Karlberg, R. W. Corell, V. J. Fabry, J. Hansen, B. Walker, D. 
+Liverman, K. Richardson, P. Crutzen, and J. A. Foley. 2009. "A safe operating space 
+for humanity." Nature 461 (7263):472-475. doi: 10.1038/461472a. 
+Rose, S. K. 2012. "The role of the social cost of carbon in policy." WIREs Climate Change 
+3:195-212. 
+Rowley, Emma. 2013. "Davos 2013: 'We are in the ante-chamber of a new global economy,' 
+says Christine Lagarde." Telegraph, 23 January 2013. 
+http://www.telegraph.co.uk/finance/financetopics/davos/9822340/Davos-2013-We-
+are-in-the-ante-chamber-of-a-new-global-economy-says-Christine-Lagarde.html. 
+Schneider, Stephen H., S. Semenov, A. Patwardhan, I. Burton, C. H. D. Magadya, M. 
+Oppenheimer, A. Barry Pittock, A. Rahman, Joel B. Smith, A. Suarez, and F. Yamin. 
+2007. "Assessing Key Vulnerability and the Risk from Climate Change." In Climate 
+Change 2007: Impacts, Adaptation and Vulnerability -- Contribution of Working 
+Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate 
+Change, edited by Martin L. Parry, Osvaldo F. Canziani, Jean P. Palutikof, P. J. van 
+der Linden and C. E. Hanson, 779-810. Cambridge: Cambridge University Press. 
+Sills, Jennifer. 2010. "Climate Change and the Integrity of Science." Science 328 (5979):689-
+690. 
+Smith, Joel B., Hans-Joachim Schellnhuber, Monirul Q. Mirza, Samuel Fankhauser, Rik 
+Leemans, Lin Erda, Laban Ogallo, A. Barry Pittock, Richard G. Richels, Cynthia 
+Rosenzweig, Uriel Safriel, Richard S. J. Tol, John P. Weyant, and Gary W. Yohe. 
+2001. "Vulnerability to Climate Change and Reasons for Concern: A Synthesis." In 
+Climate Change 2001: Impacts, Adaptation, and Vulnerability, edited by James J. 
+McCarthy, Osvaldo F. Canziani, Neil A. Leary, David J. Dokken and Katherina S. 
+White, 913-967. Cambridge, UK: Press Syndicate of the University of Cambridge. 
+Spencer, R. W. 2008. "An Inconvenient Truth: Blurring the lines between science and science 
+fiction." GeoJournal 70 (1):11-14. doi: 10.1007/s10708-008-9129-9. 
+Stavins, R. N. 2011. "The problem of the commons: Still unsettled after 100 years." 
+American Economic Review 101 (1):81-108. 
+Stern, Nicholas H., Siobhan Peters, Vicky Bakhski, Alex Bowen, Catherine Cameron, 
+Sebastian Catovsky, Diane Crane, Sophie Cruickshank, Simon Dietz, Nicola 
+Edmondson, Su-Lin Garbett, Lorraine Hamid, Gideon Hoffman, Daniel Ingram, Ben 
+Jones, Nicola Patmore, Helene Radcliffe, Ray Sathiyarajah, Michelle Stock, Chris 
+Taylor, Tamsin Vernon, Hannah Wanjie, and Dimitri Zenghelis. 2006. Stern Review: 
+The Economics of Climate Change. Cambridge: Cambridge University Press. Reprint, 
+IN FILE. 
+
+Stern, Paul C., John H. Perkins, Richard E. Sparks, and Robert A. Knox. 2016. "The 
+challenge of climate-change neoskepticism." Science 353 (6300):653-654. 
+Sunstein, C. R. 2014. "On not revisiting official discount rates: Institutional inertia and the 
+social cost of carbon." American Economic Review 104 (5):547-551. doi: 
+10.1257/aer.104.5.547. 
+Tavoni, M., and R. S. J. Tol. 2010. "Counting only the hits? The risk of underestimating the 
+costs of stringent climate policy: A letter." Climatic Change 100 (3):769-778. 
+Tinbergen, J. 1952. On the Theory of Economic Policy. Amsterdam: North Holland. Reprint, 
+IN FILE. 
+Tol, Richard S. J. 2013. "Targets for global climate policy: An overview." Journal of 
+Economic Dynamics & Control 37 (5):911-928. 
+Tol, Richard S. J. 2015. Economic impacts of climate change. In Working Paper. Falmer: 
+University of Sussex. 
+van der Ploeg, F., and A. J. de Zeeuw. 1992. "International Aspects of Pollution Control." 
+Environmental and Resource Economics 2:117-139. 
+Van Der Ploeg, Frederick, and Cees Withagen. 2014. "GROWTH, RENEWABLES, AND 
+THE OPTIMAL CARBON TAX." International Economic Review 55 (1):283-311. 
+doi: 10.1111/iere.12049. 
+Viguier, L. 2001. "Fair trade and harmonization of climate change policies in Europe." 
+Energy Policy 29 (10):749-753. doi: 10.1016/S0301-4215(00)00127-0. 
+von Schiller, J.C. Friedrich. 1787. Don Carlos, Infant von Spanien. Leipzig: Georg Joachim 
+Goesschen. 
+Wara, M. 2007. "Is the global carbon market working?" Nature 445 (7128):595-596. 
+Wara, M. 2008. "Measuring the clean development mechanism's performance and potential." 
+UCLA Law Review 55 (6):1759-1803. 
+WBGU. 1995. Scenario zur Ableitung CO2-Reduktionsziele und Umsetzungsstrategien - 
+Stellungnahme zur ersten Vertragsstaatenkonferenz der Klimarahmenkonvention in 
+Berlin. Dortmund: Wissenschaftliche Beirat der Bundesregierung Globale 
+Umweltveraenderungen. 
+Weitzman, Martin L. 1974. "Prices vs. Quantities." Review of Economic Studies 41 (4):477-
+491. 
+Wigley, Thomas M. L., Richard G. Richels, and J. A. Edmonds. 1996. "Economic and 
+Environmental Choices in the Stabilization of Atmospheric CO 2  Concentrations." 
+Nature 379:240-243. 
+Yi, H. 2013. "Clean energy policies and green jobs: An evaluation of green jobs in U.S. 
+metropolitan areas." Energy Policy 56:644-652. doi: 10.1016/j.enpol.2013.01.034. 
+Zhang, Da, Valerie J. Karplus, Cyril Cassisa, and Xiliang Zhang. 2014. "Emissions trading in 
+China: Progress and prospects." Energy Policy 75:9-16. doi: 
+http://dx.doi.org/10.1016/j.enpol.2014.01.022. 
+ 

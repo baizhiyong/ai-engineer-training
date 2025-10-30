@@ -1,0 +1,293 @@
+arXiv:2208.00733v1  [cs.ET]  1 Aug 2022
+IEEE IOT MAGAZINE, VOL. XX, NO. X, X 2022
+1
+The Rise of Quantum Internet Computing
+Seng W. Loke, Member, IEEE
+Abstract—This article highlights quantum Internet computing as referring to distributed quantum computing over the quantum Internet,
+analogous to (classical) Internet computing involving (classical) distributed computing over the (classical) Internet. Relevant to
+quantum Internet computing would be areas of study such as quantum protocols for distributed nodes using quantum information for
+computations, quantum cloud computing, delegated veriﬁable blind or private computing, non-local gates, and distributed quantum
+applications, over Internet-scale distances.
+Index Terms—quantum Internet computing, quantum Internet, distributed quantum computing, Internet computing, distributed
+systems, Internet
+”This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this
+version may no longer be accessible.”
+✦
+1
+INTRODUCTION
+T
+HERE have been tremendous developments in quantum
+computing, quantum cryptography, quantum commu-
+nications and the quantum Internet, and we have seen
+increased investments and intensive research in quantum
+computing in recent years [1], [2]. The quantum Internet will
+not necessarily replace the (classical) Internet we know and
+use today, at least not in the near future, but can complement
+the current Internet. The quantum Internet aims to enable
+robust quantum teleportation (or transmission) of qubits,1
+and entanglement among qubits,2 over long Internet-scale
+distances, which are key to many of the quantum protocols
+including quantum key distribution, quantum voting, and
+others, as well as for non-local control of quantum gates.
+There have been efforts to build quantum computers,
+and it remains to see if any one paradigm becomes the
+dominant or best way of building such quantum comput-
+ers. At the same time, even as researchers develop more
+powerful quantum computers (supporting more qubits for
+operations, and at lower error rates), there is an opportunity
+for connecting multiple quantum computers from differ-
+ent sites to achieve much more complex quantum com-
+putations, i.e., inter-linking multiple quantum computers
+on different sites to perform distributed computing with
+a distributed system of quantum computers (or quantum
+processing units (QPUs) at different nodes), arriving at the
+notion of distributed quantum computing, e.g., [3].
+While distributed quantum computing can involve mul-
+tiple QPUs next to each other or at the same site, with the
+quantum Internet, one can envision distributed quantum
+•
+Seng W. Loke is with the School of Information Technology, Deakin
+University, Melbourne, Australia.
+E-mail: see https://www.deakin.edu.au/about-deakin/people/seng-loke.
+Manuscript received X XX, 20XX; revised X XX, 20XX.
+1. A qubit is the basic unit of quantum information, and can be
+thought of as a two-state, or two-levelled, quantum-mechanical system,
+such as an electron’s spin, where the two levels are spin up and spin
+down, or a photon’s polarization, where the two states are the vertical
+polarization and the horizontal polarization.
+2. Multiple qubits at different sites can share an entangled state, a
+superpositon of “specially correlated” states, to be used in distributed
+algorithms.
+computing over nodes geographically far apart. As noted
+in [4], the idea is the quantum Internet as the “underly-
+ing infrastructure of the Distributed Quantum Computing
+ecosystem.”
+This article highlights the emerging area of distributed
+quantum computing over the quantum Internet, which we
+refer to as quantum Internet computing, i.e., the idea of com-
+puting using quantumly connected distributed quantum
+computers over Internet-scale distances. Hence, quantum
+Internet computing is not a new concept in itself but a
+proposed “umbrella term” used here for the collection of
+topics (listed below), from an analogy to (classical) Internet
+computing.
+Internet computing, where one does distributed comput-
+ing but over Internet-scale distances and distributed sys-
+tems involve nodes connected via the Internet, is at the inter-
+section of work in (classical) distributed computing and the
+(classical) Internet. Analogous to Internet computing, one
+could ask the question of what would be at the intersection
+of work in distributed quantum computing and work on the
+quantum Internet, which brings us to the notion of quantum
+Internet computing.
+Also, while the quantum Internet and distributed quan-
+tum computing are still nascent research areas, there are at
+least three key topics which can be considered as relevant to
+quantum Internet computing:
+•
+distributed quantum computing, including quantum
+protocols from theoretical perspectives involving
+communication complexity studies, and distributed
+quantum computing via non-local or distributed
+quantum gates,
+•
+quantum cloud computing with a focus on delegat-
+ing quantum computations, blind quantum comput-
+ing, and verifying delegated quantum computations,
+and
+•
+computations and algorithms for the quantum Inter-
+net including key ideas such as quantum entangle-
+ment distillation, entanglement swapping, quantum
+
+IEEE IOT MAGAZINE, VOL. XX, NO. X, X 2022
+2
+repeaters, and quantum Internet standards.3
+We brieﬂy discuss the above topics in the following sections.
+2
+DISTRIBUTED QUANTUM COMPUTING
+Distributed quantum computing problems and quantum
+protocols have been well-studied for over two decades,
+from a theoretical computer science perspective,4 many of
+which have their inspiration from classical distributed com-
+puting research. Quantum versions of classical distributed
+computing problems and protocols, and new forms of dis-
+tributed computing using quantum information, have been
+explored, e.g., the distributed three-party product problem,
+the distributed Deutsch-Jozsa promise problem and the
+distributed intersection problem, demonstrating how, for
+some problems, quantum information can enable fewer
+bits of communication to be used for a solution, and how
+certain distributed computation problems can be solved
+with quantum information, but cannot be solved classically.
+Many quantum protocols, including quantum coin ﬂipping,
+quantum leader election, quantum anonymous broadcast-
+ing, quantum voting, quantum Byzantine Generals, quan-
+tum secret sharing, and quantum oblivious transfer, can
+be viewed as “quantum versions” of classical distributed
+computing problems, and have been studied extensively.
+Another area of study, which has also been considered
+as distributed quantum computing, is non-local gates, or
+the non-local control of quantum gates, including early
+work nearly over two decades ago.5 Key to performing
+such non-local control of quantum gates is the use of en-
+tanglement, which can be viewed as a resource for such
+non-local computations. More recent work has looked at
+how to partition the computations of distributed quantum
+circuits over multiple QPUs, e.g., [3] as we mentioned earlier
+- with considerations including distributing computations
+in such a way as to optimize performance and to reduce the
+requirements on entanglement, since if the entanglements
+required are generated at too low a rate, this will hold up
+computations. The key motivation here is to inter-link a
+set of quantum computers to form effectively a much more
+powerful quantum computer.
+3
+QUANTUM CLOUD COMPUTING AND DELEGAT-
+ING QUANTUM COMPUTATIONS
+We have seen big tech companies and startups offering
+quantum computing as a service similar to accessing other
+cloud service offerings, which is a fantastic resource for
+experimentation and studies.
+More formally, studies into delegating quantum com-
+putation from a client (which can be either classical, or
+almost classical, i.e., with minimal capability to perform
+3. For example, see https://www.ietf.org/archive/id/draft-irtf-qirg-principles-10.html
+[last accessed: 1/8/2022]
+4. For example, see Buhrman and R¨ohrig’s paper dating back to
+2003: https://link.springer.com/chapter/10.1007/978-3-540-45138-9 1
+[last accessed: 1/8/2022]
+5. For example, see the work by Yimsiriwattana and Lomonaco
+Jr.
+in
+https://arxiv.org/pdf/quant-ph/0402148.pdf
+and
+a
+distributed
+version
+of
+Shor’s
+famous
+factorization
+algorithm
+https://arxiv.org/abs/2207.05976 [last accessed: 1/8/2022]
+computations such as teleporting qubits, applying simple
+Pauli quantum operations, and doing basic measurements)
+which is much more restricted than the server (assumed
+to be a universal quantum computer) have been studied,
+called delegated quantum computing. And when the server
+is prevented from knowing the client’s inputs but still can
+perform delegated computations, by a technique such as
+the quantum one-time pad (where the client applies Pauli
+operations to add uncertainty from the server’s perspective,
+thereby effectively encrypting the quantum inputs it sends
+to the server, and keeps track of operations it later needs
+to decrypt the outputs from the server), this is called blind
+quantum computing.
+In order to be sure that the server does indeed perform
+the required quantum operations delegated to it by the
+client, the client can embed tests (or test runs) into the
+delegated computations, so that the server (not being able
+to distinguish between tests and normal computations) can
+be caught out if it did not perform the required compu-
+tations properly. That is, the client can verify if the server
+performed the required quantum computations.6 Further
+abstractions for delegating quantum computations with
+supporting cloud services continues to be investigated.
+4
+THE QUANTUM INTERNET
+As we mentioned earlier, work on the quantum Internet
+focuses on how to efﬁciently enable robust entanglement
+shared among qubits over long geographical distances. If
+two nodes in different continents share entangled states,
+then, this can be a resource to do non-local gates, i.e.,
+to perform distributed quantum computations, and enable
+quantum protocols over Internet-scale distances.
+There have been the use of satellites to enable long dis-
+tance entanglement, as well as the use of optical ﬁbre cables
+to demonstrate entanglement. Key to the quantum Internet
+are ideas such as entanglement swapping and quantum
+repeaters, including ideas such quantum distillation, to
+achieve high ﬁdelity distributed entangled states over long
+distances, and quantum error correction - this continues to
+be a research endeavour as mentioned earlier [2].
+There are other interesting distributed quantum appli-
+cations to be considered including quantum cryptography,
+quantum sensing, and quantum positioning systems.
+5
+DISTRIBUTED QUANTUM COMPUTING OVER THE
+QUANTUM INTERNET: QUANTUM INTERNET COM-
+PUTING AND THE QUANTUM IOT?
+Apart from the many quantum computers available over
+the cloud by big tech and startups which work at very
+low temperatures, room temperature quantum computers
+have also started to emerge.7 This could pave the way
+for quantum computers at the fog and at the edge, not
+just in remote clouds, and perhaps even mobile quantum
+6. An
+excellent
+example
+is
+the
+work
+by
+Broadbent
+at
+https://theoryofcomputing.org/articles/v014a011/
+[last
+accessed:
+1/8/2022]
+7. See https://spectrum.ieee.org/nitrogen-vacancy-diamond-quantum-computer-
+and also https://otd.harvard.edu/explore-innovation/technologies/scalable-room-t
+[last accessed: 1/8/2022]
+
+IEEE IOT MAGAZINE, VOL. XX, NO. X, X 2022
+3
+computers, or quantum computers embedded into every-
+day devices and objects, if ever! Will we then have the
+quantum Internet of Things (IoT)? The answer remains to
+be seen, and “quantum entangled things across the world”
+will likely complement the classical IoT. Future applications
+and potential of quantum Internet computing remains to
+be investigated. Meanwhile, others have begun to look at
+the connection between 6G networking and the quantum
+Internet [5].
+REFERENCES
+[1] W.
+Kozlowski
+and
+S.
+Wehner,
+“Towards
+large-scale
+quantum
+networks,”
+in
+Proceedings
+of
+the
+Sixth
+Annual
+ACM
+International
+Conference
+on
+Nanoscale
+Computing
+and
+Communication, ser. NANOCOM ’19.
+New York, NY, USA:
+Association for Computing Machinery, 2019. [Online]. Available:
+https://doi.org/10.1145/3345312.3345497
+[2] P. P. Rohde, The Quantum Internet: The Second Quantum Revolution.
+Cambridge University Press, 2021.
+[3] R. Parekh, A. Ricciardi, A. Darwish, and S. DiAdamo, “Quantum
+algorithms and simulation for parallel and distributed quantum
+computing,” in 2021 IEEE/ACM Second International Workshop on
+Quantum Computing Software (QCS), 2021, pp. 9–19.
+[4] D. Cuomo, M. Calefﬁ, and A. S. Cacciapuoti, “Towards a distributed
+quantum computing ecosystem,” IET Quantum Communication,
+vol. 1, no. 1, pp. 3–8, 2020.
+[5] C. Wang and A. Rahman, “Quantum-enabled 6g wireless net-
+works: Opportunities and challenges,” IEEE Wireless Communica-
+tions, vol. 29, no. 1, pp. 58–69, 2022.

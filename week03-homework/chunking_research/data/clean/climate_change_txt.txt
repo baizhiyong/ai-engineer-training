@@ -1,0 +1,50 @@
+THE STRUCTURE OF THE CLIMATE DEBATE 
+ 
+Richard S.J. Tol 
+Department of Economics, University of Sussex, Falmer, United Kingdom 
+Institute for Environmental Studies, Vrije Universiteit, Amsterdam, The Netherlands 
+Department of Spatial Economics, Vrije Universiteit, Amsterdam, The Netherlands 
+Tinbergen Institute, Amsterdam, The Netherlands 
+CESifo, Munich, Germany 
+ 
+19 August 2016 
+ 
+Abstract 
+First-best climate policy is a uniform carbon tax which gradually rises over time. Civil 
+servants have complicated climate policy to expand bureaucracies, politicians to create rents. 
+Environmentalists have exaggerated climate change to gain influence, other activists have 
+joined the climate bandwagon. Opponents to climate policy have attacked the weaknesses in 
+climate research. The climate debate is convoluted and polarized as a result, and climate 
+policy complex. Climate policy should become easier and more rational as the Paris 
+Agreement has shifted climate policy back towards national governments. Changing political 
+priorities, austerity, and a maturing bureaucracy should lead to a more constructive climate 
+debate. 
+ 
+Key words 
+Climate policy; political economy 
+ 
+JEL Classification 
+F53, P16, Q54 
+ 
+1. Introduction 
+The best course of action for greenhouse gas emission reduction and adaptation to climate 
+change has been subject to debate for three decades. Much less attention has been paid to the 
+nature and structure of the climate debate, and why certain actors adopt the position that they 
+do. In this paper, I use basic tools of political economy and the economics of organizations, 
+as well as the philosophy of science and social psychology, to analyse the climate debate. 
+Economists have contributed large volumes of research on international environmental 
+agreements and the architecture of international climate policy, and copious amounts of 
+papers on the design of greenhouse gas emission reduction policies and policy instrument 
+choice in the first- and second-best. Economists have been reluctant, however, to write much 
+about the climate debate itself and apply their tools of analysis to the question why 
+participants in this debate behave the way they do. This paper makes a first attempt. 
+
+Climate policy has moved slowly. This frustrates many, whether on the side of those who 
+advocate for rapid emission reduction or of the opinion that climate policy is a nonsense best 
+forgotten. In either case, it helps to understand why the discussion is as it is, why people 
+argue as they do, and why climate policy has neither gone away nor moved to reduce 
+greenhouse gas emissions. This paper makes a start in answering these questions. The method 
+chosen is discursive rather than analytical, but readers who prefer analytics and econometrics 
+just have to follow the references. 
+The paper proceeds as follows. Section 2 revisits the case for climate policy. Section 3 
+sketches the optimal design of climate policy. These sections are kept short 

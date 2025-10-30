@@ -1,0 +1,17 @@
+splitters:
+  - name: Sentence
+    cls: SentenceSplitter
+    params:
+      - {chunk_size: [256,512,1024], chunk_overlap: [0,50,100]}
+  - name: Token
+    cls: TokenTextSplitter
+    params:
+      - {chunk_size: [128,256,512], chunk_overlap: [20,40,80]}
+  - name: SentenceWindow
+    cls: SentenceWindowNodeParser
+    params:
+      - {window_size: [1,3,5]}
+  # - name: Markdown
+  #   cls: MarkdownNodeParser
+  #   params:
+  #     - {}   # 无参

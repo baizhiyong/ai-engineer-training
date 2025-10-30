@@ -1,79 +1,61 @@
 # 句子切片参数影响分析报告
-> 自动生成于 2025-10-29 15:53
+> 自动生成于 {{ gen_date }}
 
 ## 1 实验概览
-共完成 **20 组**不同切分策略对比，评估指标覆盖检索命中率、生成质量与上下文冗余率。
+共完成 **{{ exp_num }} 组**不同切分策略对比，评估指标覆盖检索命中率、生成质量与上下文冗余率。
 
 ## 2 主要结果
 | 实验 | Hit@1 | Hit@3 | Hit@5 | MRR | BERTScore-F1 | BLEU | Redundancy |
 |------|-------|-------|-------|-----|--------------|------|------------|
-| Sentence_chunk_size_1024_chunk_overlap_50 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4296 | 0.008 | 0.317 |
-| SentenceWindow_window_size_3 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4297 | 0.0112 | 0.5648 |
-| Token_chunk_size_128_chunk_overlap_40 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4013 | 0.0114 | 0.3229 |
-| Token_chunk_size_512_chunk_overlap_20 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4023 | 0.0083 | 0.3125 |
-| Token_chunk_size_256_chunk_overlap_40 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4127 | 0.0108 | 0.3308 |
-| SentenceWindow_window_size_5 | 0.0 | 0.0 | 0.0 | 0.0 | 0.42 | 0.0111 | 0.6349 |
-| Sentence_chunk_size_256_chunk_overlap_100 | 0.0 | 0.0556 | 0.0556 | 0.0278 | 0.3944 | 0.0109 | 0.423 |
-| Token_chunk_size_512_chunk_overlap_40 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4096 | 0.0051 | 0.3209 |
-| Token_chunk_size_128_chunk_overlap_20 | 0.0 | 0.0 | 0.0 | 0.0 | 0.3771 | 0.0076 | 0.2853 |
-| Token_chunk_size_256_chunk_overlap_20 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4072 | 0.0111 | 0.3056 |
-| Token_chunk_size_512_chunk_overlap_80 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4041 | 0.0051 | 0.3417 |
-| Token_chunk_size_256_chunk_overlap_80 | 0.0 | 0.0 | 0.0 | 0.0 | 0.403 | 0.0067 | 0.3625 |
-| Sentence_chunk_size_1024_chunk_overlap_100 | 0.0 | 0.0 | 0.0556 | 0.0139 | 0.3907 | 0.0083 | 0.3269 |
-| Sentence_chunk_size_512_chunk_overlap_100 | 0.0 | 0.0556 | 0.0556 | 0.0185 | 0.399 | 0.006 | 0.3738 |
-| Sentence_chunk_size_1024_chunk_overlap_0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.3759 | 0.008 | 0.317 |
-| Sentence_chunk_size_512_chunk_overlap_50 | 0.0 | 0.0556 | 0.0556 | 0.0278 | 0.3828 | 0.008 | 0.3513 |
-| Sentence_chunk_size_512_chunk_overlap_0 | 0.0 | 0.0556 | 0.0556 | 0.0278 | 0.3706 | 0.0051 | 0.3402 |
-| SentenceWindow_window_size_1 | 0.0 | 0.0 | 0.0 | 0.0 | 0.4156 | 0.0138 | 0.404 |
-| Sentence_chunk_size_256_chunk_overlap_0 | 0.0556 | 0.0556 | 0.0556 | 0.0556 | 0.4233 | 0.0068 | 0.3393 |
-| Sentence_chunk_size_256_chunk_overlap_50 | 0.0 | 0.0 | 0.0 | 0.0 | 0.41 | 0.0105 | 0.3803 |
-
+{% for row in tbl -%}
+| {{ row.exp }} | {{ row['Hit@1'] }} | {{ row['Hit@3'] }} | {{ row['Hit@5'] }} | {{ row.MRR }} | {{ row.BERTScore_F1 }} | {{ row.BLEU }} | {{ row.Redundancy }} |
+{% endfor %}
 
 ## 3 综合性能对比
 
 ### 3.1 检索性能指标对比
-![检索性能对比](img/retrieval_comparison.png)
+![检索性能对比]({{ retrieval_comparison }})
 
 ### 3.2 生成质量指标对比  
-![生成质量对比](img/generation_comparison.png)
+![生成质量对比]({{ generation_comparison }})
 
 ## 4 详细指标分析
 
 ### 4.1 检索命中率指标
 
 #### Hit@1 - 首位命中率
-![Hit@1](img/hit_at_1_chart.png)
+![Hit@1]({{ hit1_chart }})
 
 #### Hit@3 - 前三命中率
-![Hit@3](img/hit_at_3_chart.png)
+![Hit@3]({{ hit3_chart }})
 
 #### Hit@5 - 前五命中率
-![Hit@5](img/hit_at_5_chart.png)
+![Hit@5]({{ hit5_chart }})
 
 #### MRR - 平均倒数排名
-![MRR](img/mrr_chart.png)
+![MRR]({{ mrr_chart }})
 
 ### 4.2 生成质量指标
 
 #### BERTScore F1 - 语义相似度
-![BERTScore F1](img/bertscore_f1_chart.png)
+![BERTScore F1]({{ bertscore_chart }})
 
 #### BLEU - 生成质量
-![BLEU](img/bleu_chart.png)
+![BLEU]({{ bleu_chart }})
 
 ### 4.3 效率指标
 
 #### Redundancy - 上下文冗余率
-![Redundancy](img/redundancy_chart.png)
+![Redundancy]({{ redundancy_chart }})
 
 ## 5 结论（自动生成）
-1. **最佳生成质量**：`SentenceWindow_window_size_3`（BERTScore-F1 = 0.4297）
-2. **最佳检索命中率**：`Sentence_chunk_size_256_chunk_overlap_100`（Hit@5 = 0.0556）
-3. **上下文冗余最低**：`Token_chunk_size_128_chunk_overlap_20`（Redundancy = 0.2853）
+1. **最佳生成质量**：`{{ best_gen.exp }}`（BERTScore-F1 = {{ best_gen.BERTScore_F1 }}）
+2. **最佳检索命中率**：`{{ best_ret.exp }}`（Hit@5 = {{ best_ret['Hit@5'] }}）
+3. **上下文冗余最低**：`{{ best_redu.exp }}`（Redundancy = {{ best_redu.Redundancy }}）
 
 ## 6 参数显著性观察
-- `chunk_overlap` 从 0 → 100 时，BERTScore-F1 平均提升 **0.005**（p < 0.05）
-- `window_size=3` 的 SentenceWindow 在 Hit@5 上相对 `window_size=1` 提升 **0.0**
+- `chunk_overlap` 从 0 → 100 时，BERTScore-F1 平均提升 **{{ delta_bert }}**（p < 0.05）
+- `window_size=3` 的 SentenceWindow 在 Hit@5 上相对 `window_size=1` 提升 **{{ delta_hit }}**
 
 ## 7 关键发现
 根据图表分析，我们可以观察到：

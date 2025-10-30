@@ -1,0 +1,47 @@
+Correspondence to: Denis Newman-Griffis,   
+AI Thinking: 
+A framework for rethinking artificial intelligence in practice 
+ 
+ 
+Denis Newman-Griffis 
+Information School, University of Sheffield, Sheffield, UK 
+Research on Research Institute, London, UK  
+ 
+Abstract 
+Artificial intelligence is transforming the way we work with information across disciplines and 
+practical contexts. A growing range of disciplines are now involved in studying, developing, 
+and assessing the use of AI in practice, but these disciplines often employ conflicting 
+understandings of what AI is and what is involved in its use. New, interdisciplinary approaches 
+are needed to bridge competing conceptualisations of AI in practice and help shape the future of 
+AI use. I propose a novel conceptual framework called AI Thinking, which models key 
+decisions and considerations involved in AI use across disciplinary perspectives. The AI 
+Thinking model addresses five practice-based competencies involved in applying AI in context: 
+motivating AI use in information processes, formulating AI methods, assessing available tools 
+and technologies, selecting appropriate data, and situating AI in the sociotechnical contexts it is 
+used in. A hypothetical case study is provided to illustrate the application of AI Thinking in 
+practice. This article situates AI Thinking in broader cross-disciplinary discourses of AI, 
+including its connections to ongoing discussions around AI literacy and AI-driven innovation. 
+AI Thinking can help to bridge divides between academic disciplines and diverse contexts of AI 
+use, and to reshape the future of AI in practice. 
+ 
+Keywords: Artificial intelligence; interdisciplinarity; AI applications; machine learning; AI 
+Thinking; Critical data studies 
+1. Introduction 
+Artificial intelligence has been positioned as a key driver of global change through a fourth 
+industrial revolution, and AI advances are actively transforming how we process, analyse, and 
+learn from information (1–3). The increasing relevance of AI across disciplines and sectors has 
+led to a wide variety of views on the nature of this transformation, but it is most often envisioned 
+through a technological lens: self-contained AI technologies that change (or replace) the 
+processes we use to work with information. However, the technology-centric perspective that 
+drives much of AI development and innovation fails to capture important aspects of the complex, 
+
+AI Thinking: A framework for rethinking artificial intelligence in practice 
+ 
+2 
+human contexts in which AI is used, and is increasingly insufficient to address the challenges of 
+effectively and ethically using AI in real-world settings (4–6). 
+ 
+The ongoing changes in the AI landscape are not only affecting the scope and scale of AI use: 
+they are also reshaping what it looks like to work with AI technologies in practice. For most of 
+its history, AI has been a specialised, technical discipline, focused on methodological innovation 
+and

@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What are the key goals and techniques in AI research as mentioned in the text?",
+    "answer": "Goals include learning, reasoning, knowledge representation, planning, NLP, perception, and robotics; techniques include search, optimization, logic, neural networks, and statistics.",
+    "doc": "Artificial intelligence"
+  },
+  {
+    "question": "How did advancements post-2012 and 2017 contribute to the AI boom in the 2020s?",
+    "answer": "GPU-accelerated deep learning surpassed prior methods after 2012; the 2017 transformer architecture further accelerated progress, fueling the 2020s generative AI boom.",
+    "doc": "Artificial intelligence"
+  },
+  {
+    "question": "什么是量子计算机的核心特征及其相较于经典计算机的优势？",
+    "answer": "量子计算机利用叠加和纠缠态以及非确定性测量结果，可指数级更快完成某些计算。",
+    "doc": "Quantum computing"
+  },
+  {
+    "question": "当前量子计算硬件面临的主要挑战是什么？",
+    "answer": "物理量子比特易受环境干扰导致退相干，引发计算噪声，难以构建高精度、可扩展的系统。",
+    "doc": "Quantum computing"
+  },
+  {
+    "question": "什么是量子互联网计算的核心目标和技术基础？",
+    "answer": "实现长距离量子比特的可靠传输、纠缠分发及非局域量子门控制。",
+    "doc": "quantum_computing_txt"
+  },
+  {
+    "question": "分布式量子计算与经典互联网计算的类比关系是什么？",
+    "answer": "量子互联网计算类似于经典分布式计算，但在量子互联网上进行。",
+    "doc": "quantum_computing_txt"
+  },
+  {
+    "question": "XXXX科技有限公司在2025年面临的主要技术与外部环境挑战是什么？",
+    "answer": "人工智能与量子计算的深度融合、地缘政治不确定性、供应链重构。",
+    "doc": "synth_公司年报"
+  },
+  {
+    "question": "XXXX科技有限公司在复杂环境下取得了哪些关键成果？",
+    "answer": "实现了稳健增长，并以战略定力与创新锐气推进发展。",
+    "doc": "synth_公司年报"
+  },
+  {
+    "question": "导致当前全球变暖的主要原因是什么？",
+    "answer": "人类活动，特别是工业革命以来的化石燃料燃烧",
+    "doc": "Climate change"
+  },
+  {
+    "question": "《巴黎协定》的目标是什么，当前承诺下的预计升温是多少？",
+    "answer": "将升温控制在2°C以内，当前承诺下预计升温约2.8°C",
+    "doc": "Climate change"
+  },
+  {
+    "question": "什么是AI Thinking框架及其核心功能？",
+    "answer": "AI Thinking是一个跨学科概念框架，用于建模AI实践中的关键决策，涵盖动机、方法、工具、数据和情境五个能力。",
+    "doc": "AI_txt"
+  },
+  {
+    "question": "AI Thinking如何促进跨学科合作与AI实践的未来发展？",
+    "answer": "通过整合不同学科对AI的理解，AI Thinking弥合了学术分歧，支持AI素养与创新驱动的跨领域对话。",
+    "doc": "AI_txt"
+  },
+  {
+    "question": "赤穹城的穹顶由什么材料构成？",
+    "answer": "钛合金骨架与生物玻璃",
+    "doc": "synth_小说节选"
+  },
+  {
+    "question": "城市内部的时间为何仿佛被减缓？",
+    "answer": "因人工大气层循环泵与量子计算中枢的节奏",
+    "doc": "synth_小说节选"
+  },
+  {
+    "question": "智能降噪耳机 Pro-X 的核心亮点是什么？",
+    "answer": "搭载了第四代自适应主动降噪系统（ANC 4.0）",
+    "doc": "synth_产品说明书"
+  },
+  {
+    "question": "智能降噪耳机 Pro-X 主要解决什么问题？",
+    "answer": "噪音对专注力、情绪和健康的影响",
+    "doc": "synth_产品说明书"
+  },
+  {
+    "question": "根据本文，最优气候政策的设计是什么？",
+    "answer": "最优气候政策是随时间逐步上升的统一碳税。",
+    "doc": "climate_change_txt"
+  },
+  {
+    "question": "作者认为气候辩论为何变得复杂和两极分化？",
+    "answer": "公务员扩大官僚机构、政客制造租金、环保主义者夸大气候变化、反对者攻击研究弱点。",
+    "doc": "climate_change_txt"
+  }
+]
